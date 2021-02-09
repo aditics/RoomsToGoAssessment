@@ -60,6 +60,12 @@ python inventoryManagement.py
 > LIST WAREHOUSE WAREHOUSE#
 ```
 
+## Examples
+
+![1](/screenshots/1.PNG)
+![2](/screenshots/2.PNG)
+![3](/screenshots/3.PNG)
+![4](/screenshots/4.PNG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
